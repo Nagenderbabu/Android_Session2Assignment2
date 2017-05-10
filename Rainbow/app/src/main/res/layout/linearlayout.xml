@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/display_text7"
+        android:padding="@dimen/pad_text7"
+        android:textSize="@dimen/size_text7"
+        android:gravity="center"
+        android:textColor="@color/color_text7"
+        android:background="@color/background_text7"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/display_text6"
+        android:padding="@dimen/pad_text6"
+        android:textSize="@dimen/size_text6"
+        android:gravity="center"
+        android:textColor="@color/color_text6"
+        android:background="@color/background_text6"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/display_text5"
+        android:padding="@dimen/pad_text5"
+        android:textSize="@dimen/size_text5"
+        android:gravity="center"
+        android:textColor="@color/color_text5"
+        android:background="@color/background_text5"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/display_text4"
+        android:padding="@dimen/pad_text4"
+        android:textSize="@dimen/size_text4"
+        android:gravity="center"
+        android:textColor="@color/color_text4"
+        android:background="@color/background_text4"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/display_text3"
+        android:padding="@dimen/pad_text3"
+        android:textSize="@dimen/size_text3"
+        android:gravity="center"
+        android:textColor="@color/color_text3"
+        android:background="@color/background_text3"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/display_text2"
+        android:padding="@dimen/pad_text2"
+        android:textSize="@dimen/size_text2"
+        android:gravity="center"
+        android:textColor="@color/color_text2"
+        android:background="@color/background_text2"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/display_text1"
+        android:padding="@dimen/pad_text1"
+        android:textSize="@dimen/size_text1"
+        android:gravity="center"
+        android:textColor="@color/color_text1"
+        android:background="@color/background_text1"
+        ></TextView>
+
+
+</LinearLayout>

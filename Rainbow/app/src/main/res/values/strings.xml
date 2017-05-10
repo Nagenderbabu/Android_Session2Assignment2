@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rainbow</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="display_text1">Violet</string>
+    <string name="display_text2">Indigo</string>
+    <string name="display_text3">Blue</string>
+    <string name="display_text4">Green</string>
+    <string name="display_text5">Yellow</string>
+    <string name="display_text6">Orange</string>
+    <string name="display_text7">Red</string>
+
+</resources>
