@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     >
-
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="0.5"
         android:text="@string/display_text7"
         android:padding="@dimen/pad_text7"
         android:textSize="@dimen/size_text7"
@@ -17,6 +18,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="0.5"
         android:text="@string/display_text6"
         android:padding="@dimen/pad_text6"
         android:textSize="@dimen/size_text6"
@@ -27,6 +29,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="0.5"
         android:text="@string/display_text5"
         android:padding="@dimen/pad_text5"
         android:textSize="@dimen/size_text5"
@@ -36,6 +39,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="0.5"
         android:text="@string/display_text4"
         android:padding="@dimen/pad_text4"
         android:textSize="@dimen/size_text4"
@@ -45,6 +49,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="0.5"
         android:text="@string/display_text3"
         android:padding="@dimen/pad_text3"
         android:textSize="@dimen/size_text3"
@@ -55,6 +60,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="0.5"
         android:text="@string/display_text2"
         android:padding="@dimen/pad_text2"
         android:textSize="@dimen/size_text2"
@@ -64,6 +70,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="0.5"
         android:text="@string/display_text1"
         android:padding="@dimen/pad_text1"
         android:textSize="@dimen/size_text1"

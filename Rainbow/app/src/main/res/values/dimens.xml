@@ -1,25 +1,26 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
 
-    <dimen name="pad_text1">21dp</dimen>
+    <dimen name="width">0dp</dimen>
+    <dimen name="pad_text1">26dp</dimen>
     <dimen name="size_text1">26sp</dimen>
 
-    <dimen name="pad_text2">21dp</dimen>
+    <dimen name="pad_text2">26dp</dimen>
     <dimen name="size_text2">26sp</dimen>
 
-    <dimen name="pad_text3">21dp</dimen>
+    <dimen name="pad_text3">26dp</dimen>
     <dimen name="size_text3">26sp</dimen>
 
-    <dimen name="pad_text4">21dp</dimen>
+    <dimen name="pad_text4">26dp</dimen>
     <dimen name="size_text4">26sp</dimen>
 
-    <dimen name="pad_text5">21dp</dimen>
+    <dimen name="pad_text5">26dp</dimen>
     <dimen name="size_text5">26sp</dimen>
 
-    <dimen name="pad_text6">21dp</dimen>
+    <dimen name="pad_text6">26dp</dimen>
     <dimen name="size_text6">26sp</dimen>
 
-    <dimen name="pad_text7">21dp</dimen>
+    <dimen name="pad_text7">26dp</dimen>
     <dimen name="size_text7">26sp</dimen>
 
 </resources>
